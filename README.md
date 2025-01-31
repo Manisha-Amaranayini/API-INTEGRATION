@@ -27,3 +27,5 @@ BEFORE INPUT :
 ![Image](https://github.com/user-attachments/assets/f6521099-c5b0-4913-9fda-5645343f058c)
 
 AFTER INPUT :
+
+![Image](https://github.com/user-attachments/assets/18b24a04-ddf5-4de0-9027-798e9a21f103)
