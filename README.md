@@ -25,3 +25,5 @@ The web page is designed to send requests to an API, handle the responses effect
 BEFORE INPUT :
 
 ![Image](https://github.com/user-attachments/assets/f6521099-c5b0-4913-9fda-5645343f058c)
+
+AFTER INPUT :
