@@ -21,3 +21,7 @@ Overview APIs (Application Programming Interfaces) are integral to modern web ap
 The web page is designed to send requests to an API, handle the responses effectively, and present the data in a user-friendly manner. Additionally, it includes provisions for handling authentication, error management, and configuration of API endpoints, making it a versatile starting point for various projects.
 
 #OUTPUT
+
+BEFORE INPUT :
+
+![Image](https://github.com/user-attachments/assets/f6521099-c5b0-4913-9fda-5645343f058c)
